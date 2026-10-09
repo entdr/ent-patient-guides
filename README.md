@@ -10,7 +10,7 @@ Show Image
 
 Is a blocked nose always sinusitis?
 
-No. A deviated septum, swollen turbinates, allergic rhinitis and nasal polyps can all keep the nose blocked for months, and each is treated differently. Chronic rhinosinusitis means symptoms for 12 weeks or more, such as a blocked or running nose, facial pressure or a weaker sense of smell, along with changes seen on nasal endoscopy or a CT scan (EPOS 2020).
+No. A deviated septum, swollen turbinates, allergic rhinitis and nasal polyps can all keep the nose blocked for months, and each is treated differently. Chronic rhinosinusitis means symptoms for 12 weeks or more, such as a blocked or running nose, facial pressure or a weaker sense of smell, along with changes seen on nasal endoscopy or a CT scan
 
 Can nasal sprays make it worse?
 
@@ -18,7 +18,7 @@ Decongestant sprays such as xylometazoline and oxymetazoline are meant for a few
 
 Does Delhi's air pollution matter?
 
-Yes. Delhi averaged 82.2 µg/m³ of PM2.5 in 2025, the highest of any capital city in IQAir's report (The Wire). In a US study of about 4 billion outpatient visits, each 1 µg/m³ rise in PM2.5 predicted a 10% higher rate of chronic sinusitis visits (Yang et al.).
+Yes. Delhi averaged 82.2 µg/m³ of PM2.5 in 2025, the highest of any capital city in IQAir's report (The Wire). In a US study of about 4 billion outpatient visits, each 1 µg/m³ rise in PM2.5 predicted a 10% higher rate of chronic sinusitis
 
 How is it diagnosed?
 
